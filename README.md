@@ -27,5 +27,5 @@ MetaMask is the leading self-custodial wallet. The safe and simple way to access
 
 
 
-* Shows how to deploy the contract using Remix, Metamask and Ganache. Click to download video below <br>
+* Shows how to deploy the contract using Remix, Metamask and Ganache. Click to download video below from evidence/ContractDeploymentsmall.mov <br>
     <img title="Deployment Video" alt="Video Link" src="/evidence/ContractDeploymentsmall.mov"> <br>
