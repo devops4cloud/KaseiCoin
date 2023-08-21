@@ -1,4 +1,4 @@
-# ERC20 CrowdSale - KaseiCoin (Mars in Japanese)
+# ERC20 CrowdSale - KaseiCoin
 
 KaseiCoin is a fungible token that is ERC-20 compliant. This project will launch a crowdsale that will allow people buy KaseiCoin with Ether.
 
