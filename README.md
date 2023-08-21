@@ -23,7 +23,7 @@ OpenZepplin <br>
 A platform to automate Ethereum operations and deliver high-quality products faster. Automate your smart contract administration with a clean UI.
 
 
-## Contract Deployment Video
+## Contract Deployment Evidence
 
 * Shows the contract deployed into Ganache <br>
     <img title="Deployment Contract" alt="Contact Deployment" src="/evidence/GanacheContractDeployment.png"> <br>
